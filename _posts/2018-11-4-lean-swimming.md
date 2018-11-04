@@ -3,6 +3,7 @@ layout: post
 title:  "Learn swimming on every Wednesday"
 author: hannan
 image: assets/images/swimming.jpg
+announcement: true
 ---
 Do you want to learn swimming even if you are pressure with your study or you do not have time?
 
