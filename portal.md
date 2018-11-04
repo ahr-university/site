@@ -6,6 +6,6 @@ archive: false
 post_class: post-template
 ---
 
-this is the students portal
+Portal is the gateway of information and resources for AHR community. Portal help student to log in the website for checking anything related to university issue. So, they can check the information of course, staff, and personal and even finance issue. As well as, either staff or student can activate own password if they forget it. Moreover, can they click portal button and then check result or even register online.
 
  

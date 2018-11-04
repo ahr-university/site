@@ -6,5 +6,6 @@ archive: false
 post_class: post-template
 ---
 
-this is just something to make sure that the file actually works 
+For staff should fill the staff registration form using user ID and password. So staff can be able to connect to university system and do manty task. Also, they can solve student problem, register them or even can be responsible for financial issue.
+
 

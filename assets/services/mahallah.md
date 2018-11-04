@@ -6,5 +6,5 @@ archive: false
 post_class: post-template
 ---
 
-this is just something to make sure that the file actually works 
+Our university provide the mahallah service  that allow students to do online registration and also can check the available rooms in certain mahallah. Also able students to check what the time for mahallah’s transfer or even change the room in same mahallah. So students able to choose mahallah that is near and suitable to his/her kulliyah. All these can be done by checking announcement in mahallah that derived under academic services.
  

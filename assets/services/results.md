@@ -6,5 +6,5 @@ archive: false
 post_class: post-template
 ---
 
-this is just something to make sure that the file actually works 
+The service that website provide according to result is checking result online without need to go to university.in this situation, students can check their result of the end of each semester  on the time that announced by university. So  ease the way of finding result for all students and for whole universities’kulliyah. Then later can student apply for complement if they are unsure or unexpected result
  
