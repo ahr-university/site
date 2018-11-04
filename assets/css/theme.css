@@ -50,7 +50,7 @@ section {
 	margin-bottom:20px;
 }
 section.featured-posts {
-    margin-bottom:30px;
+    margin-bottom:10px;
 }
 section.recent-posts {
     margin-bottom:0;
@@ -79,7 +79,7 @@ section.recent-posts {
     z-index: 2;
     display: inline-block;
     padding: 0px 15px 0 0;
-    font-size: 14px;
+    font-size: 28px;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -330,9 +330,9 @@ span.post-name a,span.post-read-more a:hover {
 .intro {
     background-image:url(../images/head.jpg);
     background-size:cover;
-    padding: 9rem 0;
-    margin-top:-87px;
-    margin-bottom:3.5rem;
+    padding: 15% 0;
+    margin-top:-38px;
+    margin-bottom:1.5rem;
     z-index: 1;
     position: relative;
 }
@@ -368,10 +368,10 @@ span.post-name a,span.post-read-more a:hover {
 .footer {
 	border-top:1px solid rgba(0,0,0,.05)!important;
 	color:#999;
-	margin-top:50px;
+	margin-top:20px;
     margin-bottom:0px;
     background-color: #171e27;
-    padding: 30px 0px 30px 0;
+    padding: 0px 0px 10px 0;
 }
 .footersocial i {
     width: 40px;
@@ -404,7 +404,7 @@ span.post-name a,span.post-read-more a:hover {
 .footer-widget .recent-posts img {float:left;margin-right:10px;}
 .footer .textwidget a {    border-bottom: 1px dashed;}
 .beforefooter h3 {margin-bottom:1rem;}
-.copyright {  padding-top: 1.5rem; font-size:0.9em; }
+.copyright {  font-size:0.9em; }
 .copyright a {color:#eee;}
 .copyright a:hover {text-decoration:none;color:#fff;}
 .link-dark {
@@ -478,7 +478,7 @@ blockquote {
 	}
 	.listfeaturedtag .wrapfooter {
 		position:relative;
-		margin-top:30px;
+		margin-top:20px;
 	}
 	.listfeaturedtag .card-block {
 		padding:20px;
@@ -854,11 +854,11 @@ span.navigation:before {
 iframe {
     max-width:100%;
 }
-
-@media (max-width: 1199px) {
+.mar-top{
+	margin-top: 120px;
+}
+@media (max-width: 1500px) {
     .container {
-        width: 96%;
-        max-width: 100%;
     }
 }
 @media (max-width: 991px) {
@@ -893,7 +893,7 @@ iframe {
     background: rgba(0, 0, 0, 0.7);
     width: 50px;
     height: 50px;
-    display: block;
+    display: inline;
     text-decoration: none;
     -webkit-border-radius: 35px;
     -moz-border-radius: 35px;
@@ -905,6 +905,7 @@ iframe {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
     float: right;
+    clear: both;
 }
 #return-to-top i {
     color: #fff;

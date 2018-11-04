@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Announcements
+title: Blog
 disqus: false
 archive: false
-post_class: post-template
 ---
 <div class="section-title">	
         <h2><span>{{ page.title }}</span></h2>	
  </div>
+ 
 <div class="row listfeaturedtag">
 	{% for post in site.posts %}
-		{% if post.announcement == true %}
+		{% if post.blog == true %}
 			{% include featuredbox.html %}
 		{% endif %}
 	{% endfor %}
