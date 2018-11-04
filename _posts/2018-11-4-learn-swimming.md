@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: annon
 title:  "Learn swimming on every Wednesday"
 author: hannan
 image: assets/images/swimming.jpg
