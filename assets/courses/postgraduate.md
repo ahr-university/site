@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: Undergraduate Courses
 disqus: false
 archive: false
 post_class: post-template
 ---
-## Postgraduate Curses
+
 Our institution offers various selection of courses originated from all collages and departments that goal for academic certificate because you have choose specific course to focus. That mean you only study material that is related to field that have been selected.
  The list of available courses in our university for postgraduate:
 - master in Economics
