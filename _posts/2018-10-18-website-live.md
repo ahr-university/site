@@ -1,8 +1,9 @@
 ---
 layout: annon
-title:  "website goes live!!"
+title: "Website goes live!!"
 author: blacksuan19
 announcement: true
+blog: true
 image: assets/images/live.png
 ---
 
