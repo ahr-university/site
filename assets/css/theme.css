@@ -323,8 +323,9 @@ span.post-name a,span.post-read-more a:hover {
 	font-family:Georgia;
 }
 .mainheading h1.posttitle {
-	font-weight:700;
 	margin-bottom:1rem;
+	text-transform: uppercase;
+	font-size: 28px;
 }
 .intro {
     background-image:url(../images/head.jpg);
