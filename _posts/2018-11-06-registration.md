@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New student! At new registration system!"
+title: "New students registration system!"
 author: hannan
 announcement: true
 featured: true
