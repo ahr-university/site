@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Background
-disqus: false
-archive: false
 post_class: post-template
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 author: blacksuan19
 title:  "We all wait for summer"
-categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 blog: true
 ---
