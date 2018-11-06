@@ -1,5 +1,5 @@
 ---
-layout: annon
+layout: post
 title: "Mahallah’s activity program!!"
 author: hannan
 featured: true

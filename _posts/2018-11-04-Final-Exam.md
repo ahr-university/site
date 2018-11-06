@@ -1,5 +1,5 @@
 ---
-layout: annon
+layout: post
 title:  "Final exams are near"
 author: hannan
 announcement: true

@@ -1,5 +1,5 @@
 ---
-layout: annon
+layout: post
 title: "New student! At new registration system!"
 author: hannan
 announcement: true

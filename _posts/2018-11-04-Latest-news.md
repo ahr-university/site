@@ -1,5 +1,5 @@
 ---
-layout: annon
+layout: post
 title:  "AHR daily news"
 author: hannan
 blog: true

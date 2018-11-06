@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "Desiging the site"
 author: blacksuan19
 blog: true

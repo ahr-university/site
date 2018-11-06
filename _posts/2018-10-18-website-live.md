@@ -1,5 +1,5 @@
 ---
-layout: annon
+layout: post
 title: "Website goes live!!"
 author: blacksuan19
 announcement: true

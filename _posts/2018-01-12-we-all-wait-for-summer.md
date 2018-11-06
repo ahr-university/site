@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 author: blacksuan19
 title:  "We all wait for summer"
 categories: [ Jekyll, tutorial ]

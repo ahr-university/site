@@ -1,5 +1,5 @@
 ---
-layout: annon
+layout: post
 title:  "Learn swimming on every Wednesday"
 author: hannan
 announcement: true

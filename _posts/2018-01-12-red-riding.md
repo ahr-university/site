@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "Red Riding Hood"
 author: blacksuan19
 blog: true
