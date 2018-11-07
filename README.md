@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/ahr-university/site/master/assets/images/logo.png">
+  <img width="200" height="250" src="https://raw.githubusercontent.com/ahr-university/site/master/assets/images/logo.png">
 </p>
 
 #### Introduction:
@@ -31,6 +31,7 @@
  	* Go to top button
  	* unified posts layout
  	* overall design enhancements
+ 	* drop down menu's animation
 
 ##### Rouda
  - Social media pages:
