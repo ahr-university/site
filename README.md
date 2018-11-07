@@ -9,7 +9,7 @@
 
 #### Group Contribution:
 
-###### putting contributions in a table doesn't make much sense because each member has done a lot which cant be fitted i a table.  
+###### putting contributions in a table doesn't make much sense because each member has done a lot which cant be fitted in a table.  
 
 ##### Abubakar:
  - Pages:
