@@ -66,3 +66,25 @@
 - add charts of all students results from previous exams
 - add the ability for a student to request exam remark
 - add more articles (more relevant ones)
+
+#### Third-party Resources:
+
+- [Affiliates jekyll theme](https://github.com/wowthemesnet/affiliates-jekyll-theme)
+- All images are obtained from Google search.
+- The logo was designed at free logo design.
+- go to top button was inspired by codepen
+
+| Web Element | Member | Modifications |
+|---|---|---|
+| Theme | Abubakar | A lot of modification in CSS, js and many new pages |
+| Logo | Abubakar  | Created at [free logo design](freelogodesign.com)  |
+|  go to top button |  Abubakar | fix overlap with other floating content  |
+|  buttons |  Abubakar |  add hover animation via CSS |
+|  forms |  Abubakar |  theme to site green via CSS |
+
+
+#### references:
+- [W3schools](https://www.w3schools.com/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+- [codepen](https://codepen.io/)
+- 
