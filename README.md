@@ -1,6 +1,6 @@
-### https://ahr-university.github.io/site/
-
-->![Image alt text]({{ site.baseurl }}/assets/images/logo.png)<-
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/ahr-university/site/master/assets/images/logo.png">
+</p>
 
 #### Introduction:
 > AHR university is a website for a university that provides an education system offering many services that facilitate the learning process for students. 
