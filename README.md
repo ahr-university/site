@@ -9,6 +9,8 @@
 
 #### Group Contribution:
 
+###### putting contributions in a table doesn't make much sense because each member has done a lot which cant be fitted i a table.  
+
 ##### Abubakar:
  - Pages:
  	* Homepage
@@ -71,6 +73,8 @@
 #### Third-party Resources:
 
 - [Affiliates jekyll theme](https://github.com/wowthemesnet/affiliates-jekyll-theme)
+- [Formspree](https://formspree.io/)
+- [Add This](https://www.addthis.com/)
 - All images are obtained from Google search.
 - The logo was designed at free logo design.
 - go to top button was inspired by codepen
@@ -88,4 +92,6 @@
 - [W3schools](https://www.w3schools.com/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 - [codepen](https://codepen.io/)
-- 
+- [J Query UI](https://jqueryui.com/)
+- [jekyll](https://jekyllrb.com/)
+- [RubyGems](https://rubygems.org/)
