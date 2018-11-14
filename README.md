@@ -61,7 +61,7 @@
  	* Many Articles()
 
 #### Future Enhancements:
-- an option for contact reason
+- ~an option for contact reason~
 - finalize registration page for students
 - design login page for portal
 - finalize portal
@@ -90,7 +90,7 @@
 
 #### references:
 - [W3schools](https://www.w3schools.com/)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [codepen](https://codepen.io/)
 - [J Query UI](https://jqueryui.com/)
 - [jekyll](https://jekyllrb.com/)
