@@ -66,7 +66,7 @@
 - design login page for portal
 - finalize portal
 - ~make actual social media accounts for organization~
-- add charts of all students results from previous exams
+- ~add chart of all students results from previous exams~
 - add the ability for a student to request exam remark
 - add more articles (more relevant ones)
 
@@ -78,6 +78,7 @@
 - All images are obtained from Google search.
 - The logo was designed at free logo design.
 - go to top button was inspired by codepen
+- average GPA graph designed at canva
 
 | Web Element | Member | Modifications |
 |---|---|---|
