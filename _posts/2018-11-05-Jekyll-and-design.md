@@ -6,7 +6,7 @@ blog: true
 featured: true
 image: assets/images/design.png
 ---
-<p> it takes time to learn something new regardless of how hard or easy it is,  at first i was like "man this is really not my thing" the things i work with or do on daily basis (kernel and android ROM's development" are as far earth and its moon, i was hardly able to decipher  the whole jekyll site structure after few tries i had a basic site running on my local host, next step was the styling and adding all the stuff i honestly had no idea where to begin, i fiddled there and there and it just made things worse.</p>
+<p> It takes time to learn something new regardless of how hard or easy it is,  at first i was like "man this is really not my thing" the things i work with or do on daily basis (kernel and android ROM's development" are as far earth and its moon, i was hardly able to decipher  the whole jekyll site structure after few tries i had a basic site running on my local host, next step was the styling and adding all the stuff i honestly had no idea where to begin, i fiddled there and there and it just made things worse.</p>
 <p>I called   it a day after that and focused on other tasks, next time i was on this again i started reading about jekyll and how it works and why it exists and every other time i would Google things which i cannot comprehend.</p>
 <p> This time i came kinda prepared with an idea to use a theme and work my way up there so few hours searching and finally found the perfect theme.</p>
 ![Image alt text](https://raw.githubusercontent.com/ahr-university/site/master/assets/images/theme2.jpg)  
