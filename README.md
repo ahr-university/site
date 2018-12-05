@@ -62,7 +62,7 @@
 
 #### Future Enhancements:
 - ~an option for contact reason~
-- finalize registration page for students
+- ~finalize registration page for students~
 - design login page for portal
 - finalize portal
 - ~make actual social media accounts for organization~
