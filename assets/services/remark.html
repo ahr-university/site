@@ -1,0 +1,35 @@
+---
+layout: page
+title: Request Remark
+post_class: post-template
+---
+
+<p>Here you can request remark for a specific subject if you believe the results dont reflect your actual work, you're allowed to request a remark <strong>only once.</strong></p>
+
+<form action="https://formspree.io/{{site.email}}" method="POST">
+    
+    <div class="form-group row">
+        	<div class="col-md-7">
+            	Student ID: <input class="form-control" type="text" name="student id" ><br>
+        	</div>
+
+         	<div class="col-md-7">
+            	Subject Code:<br> <input class="form-control" input type="text" name="subject code"><br>
+        	</div>
+       
+         	<div class="col-md-7">
+        		Programme:<select name="Programme" class="form-control">
+    				<option value="BEM">Bachelor of Engineering (Manufacturing)</option>
+    				<option value="BEC">Bachelor of Engineering (Civil)</option>
+    				<option value="BMS">Bachelor of Mathematical Science (Honors)</option>
+    				<option value="BCS">Bachelor of Computer Science (Honors)</option>
+    				<option value="BN">Bachelor of Nursing (Honors)</option>
+    				<option value="BHS">Bachelor of Human Sciences in Psychology</option>
+  		</select><br>
+        	</div>
+        	<div class="col-md-7">
+        	<textarea rows="8" class="form-control mb-3 " name="message" placeholder="Please tell us why you think your mark was unfair"></textarea>
+  		</div>
+        </div>
+        <input class="btn btn-success" type="submit" value="Request Reamrk">
+  </form>

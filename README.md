@@ -67,7 +67,7 @@
 - finalize portal
 - ~make actual social media accounts for organization~
 - ~add chart of all students results from previous exams~
-- add the ability for a student to request exam remark
+- ~add the ability for a student to request exam remark~
 - add more articles (more relevant ones)
 
 #### Third-party Resources:
