@@ -4,7 +4,7 @@ title: Staff Registration
 post_class: post-template
 ---
 
-<p><img src="{{ site.baseurl }}/assets/images/staff.jpg" alt="staff"></p>
+<p><img src="{{ site.baseurl }}/assets/images/staff.png" alt="staff"></p>
 <p>Staff are some of the most important people in any organization/business, after all without a staff you cant accomplish most things and most things are not usually a one man job</p>
 <p> We choose our staff carefully  based on their areas of interest, experience in specific fields, their past history while working on this job and of course the important factor their skills, trust is a 2 way relationship so for us to trust you, you have to have faith in us</p>
 
@@ -12,31 +12,37 @@ post_class: post-template
 <form action="https://formspree.io/{{site.email}}" method="POST">
     
     <div class="form-group row">
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="name" placeholder="Full Name">
+        <div class="col-md-7">
+            Full Name: <input class="form-control" type="text" name="Name" required><br>
         </div>
-         <div class="col-md-6">
-            <input class="form-control" type="text" name="gender" placeholder="Gender">
+         <div class="col-md-7">
+            Gender: <select name="Gender" class="form-control" required>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+        </select><br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="number" name="age" placeholder="Age">
+        <div class="col-md-7">
+            Age: <input class="form-control" type="number" name="Age" required><br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="marital status" placeholder="Marital Status">
+        <div class="col-md-7">
+            Marital Status: <select name="Marital status" class="form-control" required>
+                    <option value="Married">Married</option>
+                    <option value="Single">Single</option>
+        </select><br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="id" placeholder="ID/ Passport Number">
+        <div class="col-md-7">
+            ID: <input class="form-control" type="text" name="ID" required> <br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="number" name="phone" placeholder="Phone Number">
+        <div class="col-md-7">
+            Phone Number: <input class="form-control" type="number" name="Phone number" required><br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="past-job" placeholder="Past Jobs(seperate with a comma)">
+        <div class="col-md-7">
+            Past Jobs (separate with a comma) :<input class="form-control" type="text" name="Past jobs" required><br>
         </div>
 
     </div>
  
-    <input class="btn btn-success" type="submit" value="Submit Application.">
+    <input class="btn btn-success" type="submit" value="Submit Application">
 </form> 
 
 

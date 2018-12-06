@@ -7,22 +7,31 @@ title: Mahallah Complains
 <form action="https://formspree.io/{{site.email}}" method="POST">
     
     <div class="form-group row">
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="name" placeholder="Name">
+        <div class="col-md-7">
+            Full Name: <input class="form-control" type="text" name="Name" required><br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="studentid" placeholder="Student ID">
+        <div class="col-md-7">
+            Student ID: <input class="form-control" type="text" name="Student ID" required><br>
         </div>
-        <div class="col-md-6">
-            <input class="form-control" type="text" name="dorm" placeholder="Dorm">
+        <div class="col-md-7">
+            Dorm: <select name="Dorm" class="form-control" required>
+                    <option value="Assyria">Assyria</option>
+                    <option value="Babylon">Babylon</option>
+                    <option value="Canaan">Canaan</option>
+                    <option value="Lapita">Lapita</option>
+                    <option value="Maya">Maya</option>
+                    <option value="Nanda">Nanda</option>
+        </select><br>
         </div>
-	   <div class="col-md-6">
-            <input class="form-control" type="text" name="phone" placeholder="Phone Number">
+	   <div class="col-md-7">
+            Phone Number: <input class="form-control" type="text" name="Phone number" required><br>
+        </div>
+        <div class="col-md-7">
+            Please describe your issue: <textarea rows="8" class="form-control mb-3 " name="Issue"required></textarea>
         </div>
     </div>
-    <textarea rows="8" class="form-control mb-3" name="issue" placeholder="Please Descripe Your issue Here"></textarea>
     
-    <input class="btn btn-success" type="submit" value="Send">
+    <input class="btn btn-success" type="submit" value="Submit Complain">
 </form>
 <br>
 <p>If you have any issues that are not regarding our Dorms please <a href="{{ site.baseurl }}/contact" title="contact">Contact us.</a> </p>
